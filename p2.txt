@@ -1,1 +1,2 @@
-hello
+Git is a distributed version control system (DVCS) designed to track changes in source code during software development. 
+It was created by Linus Torvalds in 2005. 
